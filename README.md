@@ -1,5 +1,1 @@
-# My First Repository
-
-## How to commit
-
-...
+# my-first-repository
